@@ -1,9 +1,6 @@
 {
   "enabled": true,
-  "text": "🔥 New emoji pack out now — follow @abdallah_ramadan88",
-  "cta": "Open",
+  "image": "https://raw.githubusercontent.com/abdallah-ramadan88/banner/main/banner.png",
   "url": "https://www.instagram.com/abdallah_ramadan88",
-  "bg": "#0f0f0f",
-  "color": "#ffffff",
   "closable": true
 }
