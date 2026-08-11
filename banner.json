@@ -1,6 +1,11 @@
 {
   "enabled": true,
-  "image": "https://raw.githubusercontent.com/abdallah-ramadan88/banner/main/banner.png",
+  "rotateSeconds": 6,
   "url": "https://www.instagram.com/abdallah_ramadan88",
-  "closable": true
+  "items": [
+    { "image": "https://raw.githubusercontent.com/abdallah-ramadan88/banner/main/ad1.png" },
+    { "video": "https://raw.githubusercontent.com/abdallah-ramadan88/banner/main/ad2.mp4" },
+    { "image": "https://raw.githubusercontent.com/abdallah-ramadan88/banner/main/ad3.png" },
+    { "text": "بكج جديد نزل!", "cta": "افتح", "url": "https://www.instagram.com/abdallah_ramadan88" }
+  ]
 }
