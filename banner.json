@@ -1,6 +1,11 @@
 {
   "enabled": true,
-  "image": "https://raw.githubusercontent.com/abdalla7ramadan57-a11y/banner/main/ad1.png",
+  "closable": false,
+  "rotateSeconds": 6,
   "url": "https://www.instagram.com/abdallah_ramadan88",
-  "closable": true
+  "items": [
+    { "image": "https://raw.githubusercontent.com/abdalla7ramadan57-a11y/banner/main/ad1.png" },
+    { "image": "https://raw.githubusercontent.com/abdalla7ramadan57-a11y/banner/main/ad2.png" },
+    { "image": "https://raw.githubusercontent.com/abdalla7ramadan57-a11y/banner/main/ad3.png" }
+  ]
 }
